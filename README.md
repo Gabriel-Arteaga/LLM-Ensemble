@@ -1,7 +1,11 @@
 # Hallucination Detection in LLMs
 This repository contains an official PyTorch implementation for *Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models*.
 
-![Overview of the method](https://github.com/Gabriel-Arteaga/LLM-Ensemble/blob/main/assets/figure_1.pdf)
+![Overview of the method](https://github.com/Gabriel-Arteaga/LLM-Ensemble/blob/main/assets/figure_1.jpg)
+
+<p align="center">
+ Overview of the method. The paper can be found <a href="https://arxiv.org/pdf/2409.02976" target="_blank">here</a>.
+</p>
 
 ## Abstract
 *Uncertainty estimation is a necessary component when implementing AI in high-risk settings, such as autonomous cars, medicine, or insurances. Large Language Models (LLMs) have seen a surge in popularity in recent years, but they are subject to hallucinations, which may cause serious harm in high-risk settings. Despite their success, LLMs are expensive to train and run: they need a large amount of computations and memory, preventing the use of ensembling methods in practice. In this work, we present a novel method that allows for fast and memory-friendly training of LLM ensembles. We show that the resulting ensembles can detect hallucinations and are a viable approach in practice as only one GPU is needed for training and inference.*
