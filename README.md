@@ -4,7 +4,7 @@ This repository contains an official PyTorch implementation for *Hallucination D
 ![Overview of the method](https://github.com/Gabriel-Arteaga/LLM-Ensemble/blob/main/assets/figure_1.jpg)
 
 <p align="center">
- Overview of the method. The paper can be found <a href="https://arxiv.org/pdf/2409.02976" target="_blank">here</a>.
+ Overview of the method. The paper can be found <a href="https://openreview.net/forum?id=8T8QkDsuO9#discussion" target="_blank">here</a>.
 </p>
 
 ## Abstract
