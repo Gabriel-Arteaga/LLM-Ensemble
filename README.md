@@ -33,10 +33,10 @@ The current implementation of BatchEnsemble includes some necessary simplificati
 As a result, it does not yet support features like SDPA, Flash Attention, KV-cache, or the computational optimizations provided by Sliding Window attention.
 ## Reference
 ```
-@article{arteaga2024hallucination,
-  title={Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models},
+@inproceedings{arteaga2025hallucination,
+  title={Hallucination Detection in LLMs: Fast and Memory-Efficient Fine-Tuned Models},
   author={Arteaga, Gabriel Y and Sch{\"o}n, Thomas B and Pielawski, Nicolas},
-  journal={arXiv preprint arXiv:2409.02976},
-  year={2024}
-}
+  journal={Northern Lights Deep Learning Conference},
+  year={2025},
+  organization={PMLR}
 ```
